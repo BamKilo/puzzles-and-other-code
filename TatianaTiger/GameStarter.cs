@@ -58,7 +58,7 @@ namespace TatianaTiger
 		int _n1Duration;
 		int _nDuration;
 		Int32 _threadId = 1204368;
-		String _url = "http://forumserver.twoplustwo.com/59/puzzles-other-games/vote-counter-testing-thread-1204368/";
+		String _url = "https://forumserver.twoplustwo.com/59/puzzles-other-games/vote-counter-testing-thread-1204368/";
 		Boolean _majorityLynch = false;
 		ElectionInfo _count;
 
